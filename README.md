@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: SARIMA Time Series Analysis
 
-# ![](https://crown.edu.mm/wp-content/uploads/2022/01/smu_singapore.jpg) Capstone Project: SARIMA Time Series Analysis
+# ![](https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1408402010/bxqs0rvkbgqwgnnfnhu0.jpg) Capstone Project: SARIMA Time Series Analysis
 
 # SMU_CapstoneProject_ComparisonWebsite
 
