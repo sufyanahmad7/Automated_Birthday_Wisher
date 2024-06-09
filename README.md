@@ -28,6 +28,6 @@ I have forgotten some of my closest family members and friends' birthday on a fe
 
 ## :bowtie: Reflections
 
-1. I am intrigued how data automation can really help us and would like to use this technology to help my fellow colleagues at the workplace.
+I am intrigued how data automation can really help us and would like to use this technology to help my fellow colleagues at the workplace.
 
 Difficulty Level: 3️⃣
