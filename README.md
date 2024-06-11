@@ -1,7 +1,7 @@
 # Automated_Birthday_Wisher
 
 ## :book: Introduction
-I have forgotten some of my closest family members and friends' birthday on a few ocassions and I feel really bad about it. Therefore I have decided to write a script that automatically checks (at a set time) if today is someone's birthday. If yes, an email birthday wish (generated from 1 out of 3 email templates) will be sent. Now, I no longer have to remember everyone's birthdays.
+I have forgotten some of my closest family members and friends' birthday on a few ocassions and I feel really bad about it. Therefore I have decided to write a script that automatically checks if today is someone's birthday. If yes, an email birthday wish (randomly selected from 1 out of 3 email templates) will be sent. Now, I no longer have to feel guilty about forgetting someone's birthday!
 
 
 ## :computer: Tech Stack
