@@ -6,7 +6,7 @@ I have forgotten some of my closest family members and friends' birthday on a fe
 
 ## :computer: Tech Stack
 1. Script = Python
-2. Cloud hosting = PythonAnywhere
+2. Cloud hosting = PythonAnywhere (runs the script at a set time everyday)
 
 
 ## :white_check_mark: Key Features (App Ready)
@@ -28,6 +28,6 @@ I have forgotten some of my closest family members and friends' birthday on a fe
 
 ## :bowtie: Reflections
 
-I am intrigued how data automation can really help us and would like to use this technology to help my fellow colleagues at the workplace.
+I am intrigued how data automation can really help us save time and would like to use this technology to help my fellow colleagues at the workplace.
 
 Difficulty Level: 3️⃣
